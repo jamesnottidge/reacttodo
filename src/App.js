@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import {Task} from './Task';
-import React, {useState, useEffect } from 'react';
+import React, {useState } from 'react';
 import AddTaskForm from './AddTaskForm';
-import { createTodo, getTasks } from './apiFunctions';
+// import { createTodo, getTasks } from './apiFunctions';
 
 
 
